@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 B.E. Computer Science + MSc Chemistry undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India<br>🔭 I worked as an intern at Northcorp Software, Gurugram.<br>🌱 I’m currently learning full-stack Web Development.<br>💬 Ask me about Frontend Development.<br>⚡ Fun fact: I look different than my profile picture.
+👨🏻‍🎓 B.E. Computer Science + MSc Chemistry undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India<br>🔭 I worked as an intern at Northcorp Software, Gurugram.<br>🌱 I’m currently learning full-stack Web Development.<br>💬 Ask me about Frontend Development.<br>⚡ Fun fact: Let me remember 🤔.
 
 
 ## 🌐 Socials:
